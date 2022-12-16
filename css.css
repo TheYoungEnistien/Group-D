@@ -1,0 +1,47 @@
+
+.header{
+        background-color: red;
+        padding: 20px;
+        color: black;
+}
+h1{
+    color: black;
+    text-align: center;
+    background-color: red;
+}
+a{
+    margin-left: 100px;
+    background-color: red;
+    color: black;
+}
+.return_home{
+    float: right;
+}
+img{
+    border: 10px solid black;
+    height: 300px;
+    width:250px;
+    
+}
+.img1{
+    border: 10px solid black;
+    height: 300px;
+    width:250px;
+    float: left;
+}
+.img2{
+    border: 10px solid black;
+    height: 300px;
+    width:233px;
+    float: left;
+}
+p{
+    font-size: x-large;
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+li{
+    color: indianred;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
